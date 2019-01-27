@@ -1,0 +1,47 @@
+.center-dot {position:relative;top:200px;left:200px;}
+.dot {width:3px;height:3px;background:blue;}
+.one {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.two {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.three {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.four {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.five {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.six {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.seven {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.eight {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.nine {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.ten {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.eleven {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.tweleve {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.thirteen {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}.one {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.fourteen {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.fifteen {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.sixteen {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.seventeen {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.eighteen {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.ninteen {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.twenty {width:5px;height:5px;border-radius:10px;background:red;position:absolute;}
+.target_1 {width:5px;height:5px;border-radius:10px;background:YellowGreen;position:absolute;}
+.target_2 {width:5px;height:5px;border-radius:10px;background:yellow;position:absolute;}
+.target_3 {width:5px;height:5px;border-radius:10px;background:DeepSkyBlue;position:absolute;}
+.target_4 {width:5px;height:5px;border-radius:10px;background:orange;position:absolute;}
+.target_5 {width:5px;height:5px;border-radius:10px;background:black;position:absolute;}
+.target_6 {width:5px;height:5px;border-radius:10px;background:Magenta;position:absolute;}
+.target_7 {width:5px;height:5px;border-radius:10px;background:MediumSpringGreen;position:absolute;}
+.target_8 {width:5px;height:5px;border-radius:10px;background:pink;position:absolute;}
+.target_9 {width:5px;height:5px;border-radius:10px;background:brown;position:absolute;}
+.target_10 {width:5px;height:5px;border-radius:10px;background:gold;position:absolute;}
+.target_11 {width:5px;height:5px;border-radius:10px;background:silver;position:absolute;}
+.target_12 {width:5px;height:5px;border-radius:10px;background:darkgreen;position:absolute;}
+.target_13 {width:5px;height:5px;border-radius:10px;background:Khaki;position:absolute;}
+.target_14 {width:5px;height:5px;border-radius:10px;background:skyblue;position:absolute;}
+.target_15 {width:5px;height:5px;border-radius:10px;background:Ivory;position:absolute;}
+.target_16 {width:5px;height:5px;border-radius:10px;background:green;position:absolute;}
+.target_17 {width:5px;height:5px;border-radius:10px;background:DarkSlateGray;position:absolute;}
+.target_18 {width:5px;height:5px;border-radius:10px;background:orangered;position:absolute;}
+.target_19 {width:5px;height:5px;border-radius:10px;background:lime;position:absolute;}
+.target_20 {width:5px;height:5px;border-radius:10px;background:maroon;position:absolute;}
+d { text-align: center; width: 200px ;background:Moccasin;position:absolute;top:-200px;left:-200px;height:50px;width:50px;font-size:40px;color:chocolate}
+
+m { text-align: center; width: 200px ;background:Moccasin;position:absolute;top:-200px;left:-145px;height:50px;width:50px;font-size:40px;color:chocolate}
+
+y { text-align: center; width: 200px ;background:Moccasin;position:absolute;top:-200px;left:-90px;height:50px;width:90px;font-size:40px;color:chocolate}

@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# the above line is to avoid 'SyntaxError: Non-UTF-8 code starting with' error
-
-'''
-Created on 
-
-Course work: 
-
-@author: raja
-
-Source:
-    
-'''
-
 # Import necessary modules
 from selenium import webdriver
 import time
@@ -55,8 +40,6 @@ def startpy():
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
             pass
-            #print('new height : ', new_height, ', last_height : ', last_height)
-            #break
         last_height = new_height
         
         counter = counter + 1
@@ -76,12 +59,5 @@ def startpy():
         myfile.write(current_link)
         myfile.write('\n')
             
-    
-    #raise Exception("Test")
-    
-    # Close the browser!
-    #driver.quit()
-
-
 if __name__ == '__main__':
     startpy()

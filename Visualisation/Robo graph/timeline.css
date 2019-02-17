@@ -1,0 +1,481 @@
+.pBar1 {
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    top: -10px;
+}
+
+.pBar2 {
+    left: 40px;
+    top: -108px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(18deg); /* IE 9 */
+  -webkit-transform: rotate(18deg); /* Safari */
+  transform: rotate(18deg); /* Standard syntax */
+}
+
+.pBar3 {
+    left: 80px;
+    top: -190px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(36deg); /* IE 9 */
+  -webkit-transform: rotate(36deg); /* Safari */
+  transform: rotate(36deg); /* Standard syntax */
+}
+
+.pBar4 {
+    left: 110px;
+    top: -258px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(54deg); /* IE 9 */
+  -webkit-transform: rotate(54deg); /* Safari */
+  transform: rotate(54deg); /* Standard syntax */
+}
+
+.pBar5 {
+    left: 125px;
+    top: -320px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(72deg); /* IE 9 */
+  -webkit-transform: rotate(72deg); /* Safari */
+  transform: rotate(72deg); /* Standard syntax */
+}
+
+.pBar6 {
+  left: 130px;
+  top: -380px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Safari */
+  transform: rotate(90deg); /* Standard syntax */
+}
+
+.pBar7 {
+    left: 125px;
+    top: -440px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(108deg); /* IE 9 */
+  -webkit-transform: rotate(108deg); /* Safari */
+  transform: rotate(108deg); /* Standard syntax */
+}
+
+.pBar8 {
+    left: 110px;
+    top: -505px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(126deg); /* IE 9 */
+  -webkit-transform: rotate(126deg); /* Safari */
+  transform: rotate(126deg); /* Standard syntax */
+}
+
+.pBar9 {
+    left: 80px;
+    top: -576px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(144deg); /* IE 9 */
+  -webkit-transform: rotate(144deg); /* Safari */
+  transform: rotate(144deg); /* Standard syntax */
+}
+
+.pBar10 {
+    left: 40px;
+    top: -660px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(162deg); /* IE 9 */
+  -webkit-transform: rotate(162deg); /* Safari */
+  transform: rotate(162deg); /* Standard syntax */
+}
+
+
+
+.pBar11 {
+    top: -755px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(180deg); /* IE 9 */
+  -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(180deg); /* Standard syntax */
+}
+
+.pBar12 {
+  left: -38px;
+    top: -862px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(198deg); /* IE 9 */
+  -webkit-transform: rotate(198deg); /* Safari */
+  transform: rotate(198deg); /* Standard syntax */
+}
+
+.pBar13 {
+    top: -983px;
+    left: -69px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(216deg); /* IE 9 */
+  -webkit-transform: rotate(216deg); /* Safari */
+  transform: rotate(216deg); /* Standard syntax */
+}
+
+.pBar14 {
+    top: -1110px;
+    left: -105px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(234deg); /* IE 9 */
+  -webkit-transform: rotate(234deg); /* Safari */
+  transform: rotate(234deg); /* Standard syntax */
+}
+
+.pBar15 {
+    top: -1253px;
+    left: -125px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(252deg); /* IE 9 */
+  -webkit-transform: rotate(252deg); /* Safari */
+  transform: rotate(252deg); /* Standard syntax */
+}
+
+.pBar16 {
+    top: -1400px;
+    left: -130px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(270deg); /* IE 9 */
+  -webkit-transform: rotate(270deg); /* Safari */
+  transform: rotate(270deg); /* Standard syntax */
+}
+
+.pBar17 {
+    top: -1550px;
+    left: -125px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(288deg); /* IE 9 */
+  -webkit-transform: rotate(288deg); /* Safari */
+  transform: rotate(288deg); /* Standard syntax */
+}
+
+
+.pBar18 {
+    top: -1700px;
+    left: -97px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(316deg); /* IE 9 */
+  -webkit-transform: rotate(316deg); /* Safari */
+  transform: rotate(316deg); /* Standard syntax */
+}
+
+.pBar19 {
+    top: -1830px;
+    left: -67px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(334deg); /* IE 9 */
+  -webkit-transform: rotate(334deg); /* Safari */
+  transform: rotate(334deg); /* Standard syntax */
+}
+
+.pBar20 {
+    top: -1945px;
+    left: -30px;
+		width: 15px;
+		height: 100px;
+		border: 1px solid #FF8C00;
+		background-color: rgb(255, 0, 0);
+		position: relative;
+    -ms-transform: rotate(352deg); /* IE 9 */
+  -webkit-transform: rotate(352deg); /* Safari */
+  transform: rotate(352deg); /* Standard syntax */
+}
+
+
+
+.dot {
+  left: 30px;
+  top: -1930px;
+  height: 130px;
+  width: 130px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+.leye {
+  top: -2000px;
+  left: -50px;
+  height: 30px;
+  width: 30px;
+  background-color: #000000;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+.reye {
+  top: -2000px;
+  left: -80px;
+  height: 30px;
+  width: 30px;
+  background-color: #000000;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+.rectangle {
+  top: -2000px;
+  height: 30px;
+  width: 10px;
+  background-color: #000000;
+  position: relative;
+}
+.pBar1 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar2 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar3 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar4 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar5 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar6 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar7 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar8 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar9 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar10 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar11 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar12 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar13 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar14 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar15 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar16 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar17 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar18 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar19 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+.pBar20 div {
+		width: 100%;
+		color: #fff;
+		text-align: right;
+		line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+		height: 0;
+		background-color: silver;
+}
+
+
